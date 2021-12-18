@@ -3,4 +3,4 @@
 | MSSV     | Họ và tên       | Github         |
 |----------|-----------------|----------------|
 | 1712778  |Thống A Thảo     | ThaoThong21    |
-|  17120586|Nguyễn Phát Minh |  	      |
+|  17120586|Nguyễn Phát Minh |  InventN	      |
